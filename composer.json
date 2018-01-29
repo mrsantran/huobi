@@ -3,6 +3,12 @@
     "description": "PHP Huobi.Pro API is an asynchronous PHP library for the Huobi API designed to be easy to use.",
     "keywords": ["Huobi.Pro","cryptocurrency","WebSocket","trading","api","laravel"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "San Tran",
+            "email": "santran686@gmail.com"
+        }
+    ],
     "repositories": [ {
             "type": "vcs",
             "url": "https://github.com/mrsantran/huobi"
